@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uriel Aguilar</h1>
 <h3 align="center">A passionate Full-Stack developer from Mexico.</h3>
 
-- 💬 Ask me about **Flutter, Python, HTML, CSS, Javascript.**
-
 - 📫 How to reach me **uaguilardeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
