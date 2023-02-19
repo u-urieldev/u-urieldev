@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from Mexico.</h3>
 
 I'm Uriel, Computer Science Engeeniering student at Tecnologico de Monterrey campus Santa Fe, passionate for sports, mobile development, data science, deep learning, computer vision and our future. 
+
 ~ _Builders of the future._
 
 - 📫 How to reach me: **uaguilardeveloper@gmail.com**
