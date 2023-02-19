@@ -3,7 +3,7 @@
 
 I'm Uriel, Computer Science Engeeniering student at Tecnologico de Monterrey campus Santa Fe, passionate for sports, mobile development, data science, deep learning, computer vision and our future. _Builders of the future._
 
-- 📫 How to reach me **uaguilardeveloper@gmail.com**
+- 📫 How to reach me: **uaguilardeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
