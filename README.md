@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uriel Aguilar</h1>
 <h3 align="center">A passionate Full-Stack developer from Mexico.</h3>
 
+I'm Uriel, Computer Science student at Tecnologico de Monterrey campus Santa Fe, passionate for sports, mobile development, data science, deep learning, computer vision and our future. 
+
 - 📫 How to reach me **uaguilardeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
